@@ -1,4 +1,4 @@
-reate the AWS Glue job
+Create the AWS Glue job
 
 Go to:
 
